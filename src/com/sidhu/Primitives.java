@@ -6,7 +6,7 @@ public class Primitives {
         char letter = 's';
         float score = 99.9f;
         double largeDecimalNo = 3334343.23232;
-        long largeInt = 2332322322235l;
+        long largeInt = 2332322322235L;
         boolean check = false;
 
     }
